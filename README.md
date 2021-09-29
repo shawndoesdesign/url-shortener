@@ -21,7 +21,7 @@ This app requires the routes listed below (They can be customized!):
 /{shortened url slugs}
 ```
 # 🌟 Demo
-You may find a live demo [by clicking here](https://basic-url-shortener.shawn.pink). [Please keep in mind any URL's shortened are public!]
+You may find a live demo [by clicking here](https://url-shortener.shawndoesdesign.repl.co). [Please keep in mind any URL's shortened are public!]
 
 
 
