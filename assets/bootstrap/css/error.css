@@ -1,0 +1,16 @@
+body {
+  background-color: pink;
+}
+
+h1 {
+  padding-top: 300px;
+  text-align: center;
+  font-family: arial, sans-serif;
+}
+
+.error {
+  text-align: center;
+  font-family: arial, sans-serif;
+  padding: 15px 30px;
+  font-size: 15px;
+}

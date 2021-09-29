@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="assets/bootstrap/css/shorten.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shorten that URL!</title>
+</head>
+<body>
+    <h1>Welcome to STU! Please fill out the required fields below.</h1>
+
+    <form class="forms" method="post" action="">
+        {{ form.hidden_tag() }}
+        <div class="url">
+            {{ form.url }}
+        </div>
+        ><div class="slug">
+            {{ form.slug }}
+        </div>
+        <div class="submit">
+            {{ form.submit }}
+        </div>
+       
+    </form><br>
+</body>
+</html>

@@ -1,0 +1,5 @@
+flask
+uuid
+wtforms
+shutil
+flask_wtf

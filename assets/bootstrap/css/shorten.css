@@ -1,0 +1,27 @@
+body {
+  background-color: pink;
+}
+
+h1 {
+  text-align: center;
+  font-family: arial, sans-serif;
+}
+
+.forms {
+  text-align: center;
+}
+
+.url {
+  text-align: center;
+  padding: 10px;
+}
+
+.slug {
+  text-align: center;
+  padding: 10px;
+}
+
+.submit {
+  padding: 15px;
+  text-align: center;
+}
