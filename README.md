@@ -1,5 +1,5 @@
 ## 🔒 Flask URL Shortener
-Basic NoDB Flask URL Shortener made to be used for people who don't want to make one, but want a customizable front end.
+Basic NoDB Flask URL Shortener made to be used for people who don't want to make one, but want a customizable front end. (Yes, I used Mobirise to make a basic frontend. I'm bad at frontend, okay?)
 # ✨ Dependencies  
 On Windows and MacOS, you will need to install the dependincies below for the application to work.
 
